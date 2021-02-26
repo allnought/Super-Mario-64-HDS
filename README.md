@@ -14,6 +14,7 @@ Using ESRGan, by mixing a large set of different models in different orders, to 
 also, image manipulation to tweak results, sometimes I split images into different layers and upscaled them seperately, with some textures I practically had to remake the entire texture to make it work somewhat.
 ## Screenshots
 ![Whomp's Fortress](https://i.imgur.com/A7XoYhE.png)
+![Bob-omb Battlefield](https://i.imgur.com/gBoFf6B.png)
 ## Credits
 **Poke Headroom** for giving advice and being Helpful
 
