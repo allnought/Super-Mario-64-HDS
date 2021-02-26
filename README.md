@@ -15,6 +15,6 @@ also, image manipulation to tweak results, sometimes I split images into differe
 ## Screenshots
 ![Whomp's Fortress](https://i.imgur.com/A7XoYhE.png)
 ## Credits
-**Poki Headroom** for giving advice and being Helpful
+**Poke Headroom** for giving advice and being Helpful
 
 **Gameupscale Community** for providing a huge set of different upscalers.
