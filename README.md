@@ -1,6 +1,7 @@
 # Super-Mario-64-HDS
 ## Description
 ### Overview
+The compatability branch has the textures that are identical between the original Mario 64 and DS unchanged, meaning it can be used with other texture packs.
 Super Mario 64 HDS is a mod for Super Mario 64 (The PC Port Specifically) it's one that imports and upscales Mario 64 DS textures by a factor of 16, it's kind of a mix between the Cleaner Aesthetics and the RESRGAN 16x re-upscale texturepacks. Not a lot of it is done yet, but it should be in a semi-playable state, at least.
 ## Questions
 ### Why?
