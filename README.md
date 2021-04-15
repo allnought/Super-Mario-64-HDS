@@ -5,13 +5,15 @@
 Super Mario 64 HDS is a mod for Super Mario 64 (The PC Port Specifically) it's one that imports and upscales Mario 64 DS textures by a factor of 16, it is conceptually sort of a mix between the Cleaner Aesthetics and the RESRGAN 16x re-upscale texturepacks. It's not complete but it's making good progress
 ## Questions
 ### Why?
-This mod is not meant to be a direct competitor to any other mod, the DS textures are the most recent non-classic Super Mario 64 textures, therefore this mod is meant to be used in cases that attempt to remaster or modernize the original game, rather than recreate it as it was intended first by its developers, like Projects like Render96 do.
-There are also other projects that do a similar thing in relation to texture design, but many of them did not fit exactly the same need as this pack does, as I believe some of them modeernize it with another philosophy, sacrificing many kinks and quirks of the original textures that gives them personality.
-Generally which textures to use depends on what design you're going for and your personal tastes.
+There are many things that can be done with the PC Port of Mario 64, one of the most common things to do is to restore it to what it was supposed to be like, another option is to modernize it to what it would've been like if it were to be made today, that's what this mod is attempting to do, as the DS has the newest Mario 64 textures that are not retro themed. 
+### Hey! This is similar to X mod!
+This mod is not made as a competitor, rival or partner with any other mod, it is its own entity that can be combined with other mods, but it's not specifically designed around that. There are other similar mods to this, but they always happen to be vastly different in scope and philosophy. 
 ### How complete is this?
 It has a portion of the game done where it should be relatively useable, you can alawys check the "Projects" page to see how much progress has been done, using the "Compatability branch you can always use this over other texture packs.
 ### How was this made?
 Using ESRGan, by mixing a large set of different models in different orders, and adjusting them in image editing software to fix issues and artifacts.
+### What Quality is this?
+As this is my first upscaling project, the quality of this is not always perfect. The project has mostly had positive reactions, but if you want to compare the quality for yourself, I would recommend finding textures that are the same between DS and the original game, and then compare this with projects like Render96 HD Textures or Cleaner Aesthetics.
 ## Screenshots
 ![Whomp's Fortress](https://i.imgur.com/A7XoYhE.png)
 ![Bob-omb Battlefield](https://i.imgur.com/gBoFf6B.png)
