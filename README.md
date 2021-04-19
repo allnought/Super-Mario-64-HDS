@@ -19,6 +19,11 @@ As this is my first upscaling project, the quality of this is not always perfect
 ![Bob-omb Battlefield](https://i.imgur.com/gBoFf6B.png)
 ![Lethal Lava Land](https://i.imgur.com/ltV2Ayj.png)
 ![Hazy Maze Cave Start](https://cdn.discordapp.com/attachments/710262518802677811/831913798470205491/Cave_Epic.png)
+## Videos
+[![Bob-Omb Battlefield](https://img.youtube.com/vi/44CBX34PCnc/0.jpg)](https://www.youtube.com/watch?v=44CBX34PCnc)
+[![Alpha 0.1](https://img.youtube.com/vi/bxiQy__Xv_s/0.jpg)](https://www.youtube.com/watch?v=bxiQy__Xv_s)
+[![Alpha 0.2](https://img.youtube.com/vi/AWJ37C683GM/0.jpg)](https://www.youtube.com/watch?v=AWJ37C683GM)
+[![Unreal Showcase](https://img.youtube.com/vi/pbQBBpLNgUc/0.jpg)](https://www.youtube.com/watch?v=pbQBBpLNgUc)
 ## Credits
 **Poke Headroom** for giving advice and being Helpful
 
