@@ -25,8 +25,19 @@ As this is my first upscaling project, the quality of this is not always perfect
 [![Alpha 0.2](https://img.youtube.com/vi/AWJ37C683GM/0.jpg)](https://www.youtube.com/watch?v=AWJ37C683GM)
 [![Unreal Showcase](https://img.youtube.com/vi/pbQBBpLNgUc/0.jpg)](https://www.youtube.com/watch?v=pbQBBpLNgUc)
 ## Credits
-**Poke Headroom** for giving advice and being Helpful
-
+### General Credits
 **Gameupscale Community** for providing a huge set of different upscalers.
 
 **Mario 64 PC Port Community** for being supportive.
+
+**SM64 DS Remastered** helped with a bunch of different stuff
+## Contributors
+**Poke Headroom**
+
+**dav**
+
+**silaspokemon**
+
+**SEBAS CRACK 580**
+
+**ExcellentGamer**
